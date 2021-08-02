@@ -1,3 +1,9 @@
+This has been downloaded from Slectome's FTP. The license is indicated as being GPL:
+
+https://selectome.org/download
+
+-----
+
 SlimCodeML is an improved version of CodeML 4.4c for the branch site model, coding done by Hannes Schabauer and Mario Valle for the HP2C Selectome project, see http://www.hp2c.ch/projects/selectome/.
 
 IMPORTANT: SlimCodeML works for the branch-site model, other evolutionary models of CodeML are unsupported (and not improved). Use CodeML for other models.
